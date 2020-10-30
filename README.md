@@ -36,5 +36,5 @@ Extra: O que é [Velocidade do Abturador?](https://www.clicandoeandando.com/velo
 
 Imagens para ter uma noção de como essas configurações da um "enfase" melhor na foto.
 
-[Imagem de Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+[Imagem de Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
