@@ -5,7 +5,7 @@ um juiz muito melhor de como quer que a imagem final seja do que a sua câmera.
 
 ### ISO
 
-Primeiro, escolha o seu **ISO**, que geralmente é a configuração mais baixa em luz natural, ISO 100 na maioria das câmeras. Algumas câmeras Nikon têm um ISO mais baixo e permitem que você escolha um ISO nativo de 64. Defina seu **ISO** o mais baixo possível para evitar ruído extra e a aparência 
+Primeiro, escolha o seu **ISO**, que geralmente é a configuração mais baixa em luz natural, **ISO 100** na maioria das câmeras. Algumas câmeras Nikon têm um **ISO** mais baixo e permitem que você escolha um **ISO** nativo de 64. Defina seu **ISO** o mais baixo possível para evitar ruído extra e a aparência 
 granulada que você obterá se usar configurações **ISO** mais altas.
 
 Extra: O que é [ISO?](https://www.showmetech.com.br/entenda-que-e-iso-em-fotografia/)
@@ -15,13 +15,17 @@ Extra: O que é [ISO?](https://www.showmetech.com.br/entenda-que-e-iso-em-fotogr
 Segundo passo, decida qual **abertura** você gostaria de usar. Para um fundo borrado, use uma **abertura como f/1.4**. Se você quiser mais nitidez, na maioria dos casos, usar uma **abertura** com dois ou três pontos acima da abertura máxima será o ponto mais nítido da lente. Por exemplo, uma **lente f/2.8** 
 estará em seu ponto mais nítido em torno de **f/5.6 a f/8**.
 
+Extra: O que é [Abertura?](https://www.infoescola.com/fotografia/abertura-do-diafragma/)
+
 ### Velocidade do obturador
 
-Depois de definir o seu ISO e decidir a sua abertura, o próximo passo é consultar o fotômetro na câmera e ajustar a velocidade do obturador até obter uma leitura central. Em seguida, tire uma foto de teste e dê uma olhada na tela LCD e no histograma da sua câmera. Certifique-se de que o histograma esteja o 
+Depois de definir o seu **ISO** e decidir a sua abertura, o próximo passo é consultar o fotômetro na câmera e ajustar a **velocidade do obturador** até obter uma leitura central. Em seguida, tire uma foto de teste e dê uma olhada na tela LCD e no histograma da sua câmera. Certifique-se de que o histograma esteja o 
 mais longe possível, sem apagar os realces da sua imagem.
 
-Uma regra geral é definir a velocidade do obturador duas vezes a distância 
-focal da sua lente. Por exemplo, se você estiver usando uma lente prime de 100mm, defina uma velocidade mínima do obturador de 1/200 para evitar que as imagens fiquem borradas com o tremido da câmera.
+Uma regra geral é definir a **velocidade do obturador** duas vezes a distância 
+focal da sua lente. Por exemplo, se você estiver usando uma lente prime de **100mm**, defina uma velocidade mínima do **obturador de 1/200** para evitar que as imagens fiquem borradas com o tremido da câmera.
 
 Existem exceções à esta regra. Se você estiver usando um tripé ou tiver estabilização 
-na câmera, como algumas câmeras mirrorless, ou se estiver usando uma lente que tenha estabilizador de imagem integrada, poderá fotografar com velocidades mais baixas.
+na câmera, como algumas [câmeras mirrorless](https://www.techtudo.com.br/artigos/noticia/2011/12/o-que-sao-cameras-mirrorless.html), ou se estiver usando uma lente que tenha estabilizador de imagem integrada, poderá fotografar com velocidades mais baixas.
+
+Extra: O que é [Velocidade do Abturador?](https://www.clicandoeandando.com/velocidade-do-obturador/)
