@@ -8,7 +8,7 @@ um juiz muito melhor de como quer que a imagem final seja do que a sua câmera.
 Primeiro, escolha o seu **ISO**, que geralmente é a configuração mais baixa em luz natural, ISO 100 na maioria das câmeras. Algumas câmeras Nikon têm um ISO mais baixo e permitem que você escolha um ISO nativo de 64. Defina seu **ISO** o mais baixo possível para evitar ruído extra e a aparência 
 granulada que você obterá se usar configurações **ISO** mais altas.
 
-Extra: O que é [ISO?[(https://www.showmetech.com.br/entenda-que-e-iso-em-fotografia/)
+Extra: O que é [ISO?](https://www.showmetech.com.br/entenda-que-e-iso-em-fotografia/)
 
 ### Abertura
 
