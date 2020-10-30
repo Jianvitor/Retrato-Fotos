@@ -36,5 +36,5 @@ Extra: O que é [Velocidade do Abturador?](https://www.clicandoeandando.com/velo
 
 Imagens para ter uma noção de como essas configurações da um "enfase" melhor na foto.
 
-<img src="images/https://github.com/Jianvitor/Retrato-Fotos/blob/main/img1.jpg" wdth="100" >
+<img src="https://github.com/Jianvitor/Retrato-Fotos/blob/main/img1.jpg" wdth="100" >
 
