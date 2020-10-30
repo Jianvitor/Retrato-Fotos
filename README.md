@@ -1,5 +1,4 @@
-_A fotografia nunca se revela por inteiro quando você se desmancha por alguém. Essas relações lembram uma foto polaroid: a imagem vai aparecendo aos poucos. Algumas coisas se distanciam do sentimento original, mas isso é a vida._ 
-_Mia Farrow_
+_A fotografia nunca se revela por inteiro quando você se desmancha por alguém. Essas relações lembram uma foto polaroid: a imagem vai aparecendo aos poucos. Algumas coisas se distanciam do sentimento original, mas isso é a vida.    _Mia Farrow_
 
 ### Melhores configurações de câmera para fotografia de retrato
 
