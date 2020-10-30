@@ -1,3 +1,5 @@
+_A fotografia nunca se revela por inteiro quando você se desmancha por alguém. Essas relações lembram uma foto polaroid: a imagem vai aparecendo aos poucos. Algumas coisas se distanciam do sentimento original, mas isso é a vida. Mia Farrow_
+
 ### Melhores configurações de câmera para fotografia de retrato
 
 Configure sua câmera para o modo manual para obter um controle mais criativo da exposição. Vai demorar um pouco mais para capturar suas imagens, mas você é 
