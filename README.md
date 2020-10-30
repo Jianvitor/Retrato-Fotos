@@ -37,4 +37,8 @@ Extra: O que é [Velocidade do Abturador?](https://www.clicandoeandando.com/velo
 Imagens para ter uma noção de como essas configurações da um "enfase" melhor na foto.
 
 [Imagem1](https://www.dicasdemulher.com.br/wp-content/uploads/2016/12/poses-para-foto-7.jpg)
+[Imagem2](https://www.dicasdemulher.com.br/wp-content/uploads/2016/12/poses-para-foto-8.jpg)
+[Imagem3](https://www.dicasdemulher.com.br/wp-content/uploads/2016/12/poses-para-foto-10.jpg)
+[Imagem4](https://olook.com.br/wp-content/uploads/2019/12/dica6-olook-820x1024.jpg)
+[Imagem5](https://olook.com.br/wp-content/uploads/2019/12/calsa-olhando-olook-683x1024.jpg)
 
