@@ -5,13 +5,15 @@ um juiz muito melhor de como quer que a imagem final seja do que a sua câmera.
 
 ### ISO
 
-Primeiro, escolha o seu ISO, que geralmente é a configuração mais baixa em luz natural, ISO 100 na maioria das câmeras. Algumas câmeras Nikon têm um ISO mais baixo e permitem que você escolha um ISO nativo de 64. Defina seu ISO o mais baixo possível para evitar ruído extra e a aparência 
-granulada que você obterá se usar configurações ISO mais altas.
+Primeiro, escolha o seu **ISO**, que geralmente é a configuração mais baixa em luz natural, ISO 100 na maioria das câmeras. Algumas câmeras Nikon têm um ISO mais baixo e permitem que você escolha um ISO nativo de 64. Defina seu **ISO** o mais baixo possível para evitar ruído extra e a aparência 
+granulada que você obterá se usar configurações **ISO** mais altas.
+
+Extra: O que é [ISO?[(https://www.showmetech.com.br/entenda-que-e-iso-em-fotografia/)
 
 ### Abertura
 
-Segundo passo, decida qual abertura você gostaria de usar. Para um fundo borrado, use uma abertura como f/1.4. Se você quiser mais nitidez, na maioria dos casos, usar uma abertura com dois ou três pontos acima da abertura máxima será o ponto mais nítido da lente. Por exemplo, uma lente f/2.8 
-estará em seu ponto mais nítido em torno de f/5.6 a f/8.
+Segundo passo, decida qual **abertura** você gostaria de usar. Para um fundo borrado, use uma **abertura como f/1.4**. Se você quiser mais nitidez, na maioria dos casos, usar uma **abertura** com dois ou três pontos acima da abertura máxima será o ponto mais nítido da lente. Por exemplo, uma **lente f/2.8** 
+estará em seu ponto mais nítido em torno de **f/5.6 a f/8**.
 
 ### Velocidade do obturador
 
