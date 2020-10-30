@@ -31,3 +31,9 @@ Existem exceções à esta regra. Se você estiver usando um tripé ou tiver est
 na câmera, como algumas [câmeras mirrorless](https://www.techtudo.com.br/artigos/noticia/2011/12/o-que-sao-cameras-mirrorless.html), ou se estiver usando uma lente que tenha estabilizador de imagem integrada, poderá fotografar com velocidades mais baixas.
 
 Extra: O que é [Velocidade do Abturador?](https://www.clicandoeandando.com/velocidade-do-obturador/)
+
+### Imagens Retrato
+
+Imagens para ter uma noção de como essas configurações da um "enfase" melhor na foto.
+
+
